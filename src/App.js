@@ -11,7 +11,7 @@ function App() {
           nombre="Adrian"
           apellido="Villamares"
           segundoApellido="Martinez"
-          escuela="CECYTEM Tultutlan"
+          escuela="CECYTEM Tultitlan"
         />
       </header>
     </div>
